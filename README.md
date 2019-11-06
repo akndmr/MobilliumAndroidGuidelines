@@ -28,9 +28,10 @@ Project & code-style guideline of Mobillium Android Development Team.
 
 **Styles**
 *Pascal Case*
+
 | Rule | Definition 
 |--|--|
-| name="TextHeader" parent="Widget.AppCompat.TextView" | For header texts
+| name="TextHeader" parent="Widget.AppCompat.TextView" | For header texts|
 |name="TextHeader.Black"| Extends all styles from TextHeader and adds new color style|
 
 <br>
@@ -38,4 +39,4 @@ Project & code-style guideline of Mobillium Android Development Team.
 **Colors**
 | Rule | Definition 
 |--|--|
-|  |  |
+| brb | brb  |
