@@ -37,6 +37,7 @@ Project & code-style guideline of Mobillium Android Development Team.
 <br>
 
 **Colors**
+
 | Rule | Definition 
 |--|--|
 | brb | brb  |
