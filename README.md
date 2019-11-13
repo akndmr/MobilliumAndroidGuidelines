@@ -76,7 +76,7 @@ Project & code-style guideline of Mobillium Android Development Team.
 
 | Rule | Definition | Example
 |--|--|--|
-| `<where>_screen_<description>_<type>` <br> or <br> `<where>_<description>_<type>` <br> or <br> `common_<description>`| **where** = DieticianDetailActivity + *screen* <br> **description** = Credit card type <br> **type** = Header  | ◾`<string name="dietician_detail_screen_credit_card_type_header"> Credit Card </string>` <br> ◾`<string name="common_loading">Loading...</string>`|
+| `<where>_screen_<description>_<type>` <br> or <br> `<where>_<description>_<type>` <br> or <br> `common_<description>`| **where** = DieticianDetailActivity + *screen* <br> **description** = Credit card type <br> **type** = Header  | ◾`<string name="dietician_detail_screen_credit_card_type_header"> Credit Card Type </string>` <br> ◾`<string name="common_loading">Loading...</string>`|
 
 <br>
 
