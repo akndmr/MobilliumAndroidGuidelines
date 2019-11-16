@@ -22,7 +22,7 @@ Project & code-style guideline of Mobillium Android Development Team.
 
 | Rule | Definition | Example
 |--|--|--|
-| `<widget/where>_<description>_<alpha>`| **widget/where** =  widget name or where it's used <br> **alpha** = Transparency percentage (CC000000 - 80% black transparent)| ◾`<color name="image_logo_tint">@color/mobillium_blue</color>` <br> ◾`<color name="button_primary">@color/pistachio</color>`<br> ◾`<color name="button_inactive">@color/iron_80</color>`<br> ◾`<color name="mobillium_blue">#4b7bec</color>`<br> ◾`<color name="pistachio">#93c572</color>`<br> ◾`<color name="iron_80">#CC48494B</color>`
+| `<widget/where>_<description>_<alpha>`| **widget/where** =  widget name or where it's used <br> **alpha** = Transparency percentage (`CC000000` - 80% black transparent)| ◾`<color name="image_logo_tint">@color/mobillium_blue</color>` <br> ◾`<color name="button_primary">@color/pistachio</color>`<br> ◾`<color name="button_inactive">@color/iron_80</color>`<br> ◾`<color name="mobillium_blue">#4b7bec</color>`<br> ◾`<color name="pistachio">#93c572</color>`<br> ◾`<color name="iron_80">#CC48494B</color>`
 
 <br>
 
